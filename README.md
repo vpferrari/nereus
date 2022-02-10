@@ -6,4 +6,4 @@ Além do benefício óbvio de se ter um sistema genérico em mãos para jogar, a
 
 
 # Licença
-Este repositório está publicado sob Domínio Público.
+NEREUS está sendo construído do zero, sem nenhuma base de outros jogos. Ao mesmo tempo, este projeto é mais um hobby despretensioso do que qualquer outra coisa e eu não tenho a menor intenção de investir nessa empreitada visando um produto comercial. Ao mesmo tempo, seria legal ver uma galera mais corajosa utilizar este sistema, se assim eles desejarem. Eu não quero associação com qualquer projeto e, por isso, este repositório está publicado sob Domínio Público.
